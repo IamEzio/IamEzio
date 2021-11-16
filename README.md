@@ -12,7 +12,7 @@
   
 - 🌱 I’m currently learning **NUXT**  
   
-- 👯 I’m looking to collaborate on **on exciting projects!**  
+- 👯 I’m looking to collaborate on **exciting projects!**  
   
 - 💬 Ask me about **Vue, Django and gsap**  
   
