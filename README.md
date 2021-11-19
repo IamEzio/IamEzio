@@ -8,9 +8,9 @@
  
   <img src="https://github.com/IamEzio/IamEzio/blob/main/hello%20gif.gif?raw=true" align="right">
   
-- 🔭 I’m currently working on [COPS SDG site](https://github.com/COPS-IITBHU/sdg-site)  
+- 🔭 I’m currently working on [Notez_backend](https://github.com/IamEzio/Notez_backend)  
   
-- 🌱 I’m currently learning **NUXT**  
+- 🌱 I’m currently learning **NEXT**  
   
 - 👯 I’m looking to collaborate on **exciting projects!**  
   
