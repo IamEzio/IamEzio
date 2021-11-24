@@ -14,7 +14,7 @@
   
 - 👯 I’m looking to collaborate on **exciting projects!**  
   
-- 💬 Ask me about **Vue, Django and gsap**  
+- 💬 Ask me about **Vue** and **Django**  
   
 - 📫 Reach me at **anshumanmaurya111@gmail.com**
 <br>
