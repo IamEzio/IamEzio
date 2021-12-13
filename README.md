@@ -10,7 +10,7 @@
   
 - 🔭 I’m currently working on [Notez_backend](https://github.com/IamEzio/Notez_backend)  
   
-- 🌱 I’m currently learning **NEXT**  
+- 🌱 I’m currently learning **Angular**  
   
 - 👯 I’m looking to collaborate on **exciting projects!**  
   
