@@ -8,7 +8,7 @@
  
   <img src="https://github.com/IamEzio/IamEzio/blob/main/hello%20gif.gif?raw=true" align="right">
   
-- 🔭 I’m currently working on [Notez_backend](https://github.com/IamEzio/Notez_backend)  
+- 🔭 I’m currently working in [Oppia](https://github.com/oppia/oppia)  
   
 - 🌱 I’m currently learning **Angular**  
   
