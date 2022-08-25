@@ -3,7 +3,7 @@
 <h3 align="center">An enthusiastic Web Developer</h3>  
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamezio&label=Profile%20views&color=0e75b6&style=flat" alt="iamezio" /> </p>  
-  <p>I am a Full Stack Web Developer passionate to explore new technologies and slightly addicted to competitive programming. Currently, I am a student pursuing Computer Science and Engineering at the Indian Institute of Technology ( BHU ) as a sophomore.</p>
+  <p>I am a Full Stack Web Developer passionate to explore new technologies and slightly addicted to competitive programming. Currently, I am a pre-final year student pursuing Computer Science and Engineering at the Indian Institute of Technology ( BHU ).</p>
   <br>
  
   <img src="https://github.com/IamEzio/IamEzio/blob/main/hello%20gif.gif?raw=true" align="right">
