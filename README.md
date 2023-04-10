@@ -8,9 +8,9 @@
  
   <img src="https://github.com/IamEzio/IamEzio/blob/main/hello%20gif.gif?raw=true" align="right">
   
-- 🔭 I’m currently working in [Oppia](https://github.com/oppia/oppia)  
+- 🔭 I’m currently working in [Mathesar](https://github.com/centerofci/mathesar)  
   
-- 🌱 I’m currently learning **Angular**  
+<!-- - 🌱 I’m currently learning ****   -->
   
 - 👯 I’m looking to collaborate on **exciting projects!**  
   
