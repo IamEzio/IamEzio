@@ -26,6 +26,6 @@
 <a href="https://instagram.com/anshuman_maurya__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anshuman_maurya__" height="30" width="40" /></a>  
 </p>  
   <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamezio&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="iamezio" /></p>  
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamezio&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="iamezio" /></p>
  
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamezio&show_icons=true&locale=en&theme=midnight-purple" alt="iamezio" /></p>
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamezio&show_icons=true&locale=en&theme=midnight-purple" alt="iamezio" /></p>   -->
