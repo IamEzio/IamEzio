@@ -9,7 +9,7 @@ Occasionally elegant. Always shipped.
 - 💼 Software Engineer at Oracle  
 - 🛠️ I work with backend systems & AI Integrations  
 - ⚡ Still enjoy solving problems a bit too much  
-- 🤝 Open to interesting ideas, or any interesting stuff in general
+- 🤝 Open to ideas, or any interesting stuff in general
 
 ---
 
