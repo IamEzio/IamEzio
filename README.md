@@ -5,7 +5,6 @@ Building things that (mostly) work.<br/>
 Occasionally elegant. Always shipped.
 </p>
 
----
 
 - 💼 Software Engineer at Oracle  
 - 🛠️ I work with backend systems & AI Integrations  
